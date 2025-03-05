@@ -1,0 +1,15 @@
+F:\C#\Patterns_3\Patterns_3\bin\Debug\net8.0\Patterns_3.exe
+F:\C#\Patterns_3\Patterns_3\bin\Debug\net8.0\Patterns_3.deps.json
+F:\C#\Patterns_3\Patterns_3\bin\Debug\net8.0\Patterns_3.runtimeconfig.json
+F:\C#\Patterns_3\Patterns_3\bin\Debug\net8.0\Patterns_3.dll
+F:\C#\Patterns_3\Patterns_3\bin\Debug\net8.0\Patterns_3.pdb
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\Patterns_3.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\Patterns_3.AssemblyInfoInputs.cache
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\Patterns_3.AssemblyInfo.cs
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\Patterns_3.csproj.CoreCompileInputs.cache
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\Patterns_3.sourcelink.json
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\Patterns_3.dll
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\refint\Patterns_3.dll
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\Patterns_3.pdb
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\Patterns_3.genruntimeconfig.cache
+F:\C#\Patterns_3\Patterns_3\obj\Debug\net8.0\ref\Patterns_3.dll
