@@ -1,0 +1,15 @@
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\bin\Debug\net8.0\Basics_of_the_C_programming_language#.exe
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\bin\Debug\net8.0\Basics_of_the_C_programming_language#.deps.json
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\bin\Debug\net8.0\Basics_of_the_C_programming_language#.runtimeconfig.json
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\bin\Debug\net8.0\Basics_of_the_C_programming_language#.dll
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\bin\Debug\net8.0\Basics_of_the_C_programming_language#.pdb
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\Basics_of_the_C_programming_language#.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\Basics_of_the_C_programming_language#.AssemblyInfoInputs.cache
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\Basics_of_the_C_programming_language#.AssemblyInfo.cs
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\Basics_of_the_C_programming_language#.csproj.CoreCompileInputs.cache
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\Basics_of_the_C_programming_language#.sourcelink.json
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\Basics_of_the_C_programming_language#.dll
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\refint\Basics_of_the_C_programming_language#.dll
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\Basics_of_the_C_programming_language#.pdb
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\Basics_of_the_C_programming_language#.genruntimeconfig.cache
+F:\C#\Basics_of_the_C_programming_language#\Basics_of_the_C_programming_language#\obj\Debug\net8.0\ref\Basics_of_the_C_programming_language#.dll
