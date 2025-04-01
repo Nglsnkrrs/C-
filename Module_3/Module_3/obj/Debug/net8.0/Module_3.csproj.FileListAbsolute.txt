@@ -1,0 +1,15 @@
+F:\C#\Module_3\Module_3\bin\Debug\net8.0\Module_3.exe
+F:\C#\Module_3\Module_3\bin\Debug\net8.0\Module_3.deps.json
+F:\C#\Module_3\Module_3\bin\Debug\net8.0\Module_3.runtimeconfig.json
+F:\C#\Module_3\Module_3\bin\Debug\net8.0\Module_3.dll
+F:\C#\Module_3\Module_3\bin\Debug\net8.0\Module_3.pdb
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\Module_3.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\Module_3.AssemblyInfoInputs.cache
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\Module_3.AssemblyInfo.cs
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\Module_3.csproj.CoreCompileInputs.cache
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\Module_3.sourcelink.json
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\Module_3.dll
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\refint\Module_3.dll
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\Module_3.pdb
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\Module_3.genruntimeconfig.cache
+F:\C#\Module_3\Module_3\obj\Debug\net8.0\ref\Module_3.dll
