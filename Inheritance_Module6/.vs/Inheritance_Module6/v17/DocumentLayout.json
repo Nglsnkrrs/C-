@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#\\Inheritance_Module6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|f:\\c#\\inheritance_module6\\inheritance_module6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|solutionrelative:inheritance_module6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|f:\\c#\\inheritance_module6\\inheritance_module6\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|solutionrelative:inheritance_module6\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|f:\\c#\\inheritance_module6\\inheritance_module6\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|solutionrelative:inheritance_module6\\engineer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|f:\\c#\\inheritance_module6\\inheritance_module6\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|solutionrelative:inheritance_module6\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|f:\\c#\\inheritance_module6\\inheritance_module6\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|solutionrelative:inheritance_module6\\security.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|f:\\c#\\inheritance_module6\\inheritance_module6\\president.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFE63B7-C96B-4D36-9E3C-7DA2DB07C653}|Inheritance_Module6\\Inheritance_Module6.csproj|solutionrelative:inheritance_module6\\president.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Engineer.cs",
+              "RelativeDocumentMoniker": "Inheritance_Module6\\Engineer.cs",
+              "ToolTip": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Engineer.cs",
+              "RelativeToolTip": "Inheritance_Module6\\Engineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:47:10.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Manager.cs",
+              "RelativeDocumentMoniker": "Inheritance_Module6\\Manager.cs",
+              "ToolTip": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Manager.cs",
+              "RelativeToolTip": "Inheritance_Module6\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:46:57.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Security.cs",
+              "DocumentMoniker": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Security.cs",
+              "RelativeDocumentMoniker": "Inheritance_Module6\\Security.cs",
+              "ToolTip": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Security.cs",
+              "RelativeToolTip": "Inheritance_Module6\\Security.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:46:46.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "President.cs",
+              "DocumentMoniker": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\President.cs",
+              "RelativeDocumentMoniker": "Inheritance_Module6\\President.cs",
+              "ToolTip": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\President.cs",
+              "RelativeToolTip": "Inheritance_Module6\\President.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:46:33.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Worker.cs",
+              "RelativeDocumentMoniker": "Inheritance_Module6\\Worker.cs",
+              "ToolTip": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Worker.cs",
+              "RelativeToolTip": "Inheritance_Module6\\Worker.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T08:32:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance_Module6\\Program.cs",
+              "ToolTip": "F:\\C#\\Inheritance_Module6\\Inheritance_Module6\\Program.cs",
+              "RelativeToolTip": "Inheritance_Module6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:42:56.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

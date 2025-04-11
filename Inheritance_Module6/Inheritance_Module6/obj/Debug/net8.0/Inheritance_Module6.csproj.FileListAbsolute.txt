@@ -1,0 +1,15 @@
+F:\C#\Inheritance_Module6\Inheritance_Module6\bin\Debug\net8.0\Inheritance_Module6.exe
+F:\C#\Inheritance_Module6\Inheritance_Module6\bin\Debug\net8.0\Inheritance_Module6.deps.json
+F:\C#\Inheritance_Module6\Inheritance_Module6\bin\Debug\net8.0\Inheritance_Module6.runtimeconfig.json
+F:\C#\Inheritance_Module6\Inheritance_Module6\bin\Debug\net8.0\Inheritance_Module6.dll
+F:\C#\Inheritance_Module6\Inheritance_Module6\bin\Debug\net8.0\Inheritance_Module6.pdb
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\Inheritance_Module6.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\Inheritance_Module6.AssemblyInfoInputs.cache
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\Inheritance_Module6.AssemblyInfo.cs
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\Inheritance_Module6.csproj.CoreCompileInputs.cache
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\Inheritance_Module6.sourcelink.json
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\Inheritance_Module6.dll
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\refint\Inheritance_Module6.dll
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\Inheritance_Module6.pdb
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\Inheritance_Module6.genruntimeconfig.cache
+F:\C#\Inheritance_Module6\Inheritance_Module6\obj\Debug\net8.0\ref\Inheritance_Module6.dll
