@@ -1,0 +1,15 @@
+F:\C#\Operator_overload\Operator_overload\bin\Debug\net8.0\Operator_overload.exe
+F:\C#\Operator_overload\Operator_overload\bin\Debug\net8.0\Operator_overload.deps.json
+F:\C#\Operator_overload\Operator_overload\bin\Debug\net8.0\Operator_overload.runtimeconfig.json
+F:\C#\Operator_overload\Operator_overload\bin\Debug\net8.0\Operator_overload.dll
+F:\C#\Operator_overload\Operator_overload\bin\Debug\net8.0\Operator_overload.pdb
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\Operator_overload.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\Operator_overload.AssemblyInfoInputs.cache
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\Operator_overload.AssemblyInfo.cs
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\Operator_overload.csproj.CoreCompileInputs.cache
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\Operator_overload.sourcelink.json
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\Operator_overload.dll
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\refint\Operator_overload.dll
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\Operator_overload.pdb
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\Operator_overload.genruntimeconfig.cache
+F:\C#\Operator_overload\Operator_overload\obj\Debug\net8.0\ref\Operator_overload.dll
