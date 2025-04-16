@@ -1,0 +1,15 @@
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\List_of_books_to_read.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\List_of_books_to_read.AssemblyInfoInputs.cache
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\List_of_books_to_read.AssemblyInfo.cs
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\List_of_books_to_read.csproj.CoreCompileInputs.cache
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\List_of_books_to_read.sourcelink.json
+F:\C#\List_of_books_to_read\List_of_books_to_read\bin\Debug\net8.0\List_of_books_to_read.exe
+F:\C#\List_of_books_to_read\List_of_books_to_read\bin\Debug\net8.0\List_of_books_to_read.deps.json
+F:\C#\List_of_books_to_read\List_of_books_to_read\bin\Debug\net8.0\List_of_books_to_read.runtimeconfig.json
+F:\C#\List_of_books_to_read\List_of_books_to_read\bin\Debug\net8.0\List_of_books_to_read.dll
+F:\C#\List_of_books_to_read\List_of_books_to_read\bin\Debug\net8.0\List_of_books_to_read.pdb
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\List_of_books_to_read.dll
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\refint\List_of_books_to_read.dll
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\List_of_books_to_read.pdb
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\List_of_books_to_read.genruntimeconfig.cache
+F:\C#\List_of_books_to_read\List_of_books_to_read\obj\Debug\net8.0\ref\List_of_books_to_read.dll
