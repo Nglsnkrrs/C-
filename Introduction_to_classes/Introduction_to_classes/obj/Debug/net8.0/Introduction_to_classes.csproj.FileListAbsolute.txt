@@ -1,0 +1,15 @@
+F:\C#\Introduction_to_classes\Introduction_to_classes\bin\Debug\net8.0\Introduction_to_classes.exe
+F:\C#\Introduction_to_classes\Introduction_to_classes\bin\Debug\net8.0\Introduction_to_classes.deps.json
+F:\C#\Introduction_to_classes\Introduction_to_classes\bin\Debug\net8.0\Introduction_to_classes.runtimeconfig.json
+F:\C#\Introduction_to_classes\Introduction_to_classes\bin\Debug\net8.0\Introduction_to_classes.dll
+F:\C#\Introduction_to_classes\Introduction_to_classes\bin\Debug\net8.0\Introduction_to_classes.pdb
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\Introduction_to_classes.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\Introduction_to_classes.AssemblyInfoInputs.cache
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\Introduction_to_classes.AssemblyInfo.cs
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\Introduction_to_classes.csproj.CoreCompileInputs.cache
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\Introduction_to_classes.sourcelink.json
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\Introduction_to_classes.dll
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\refint\Introduction_to_classes.dll
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\Introduction_to_classes.pdb
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\Introduction_to_classes.genruntimeconfig.cache
+F:\C#\Introduction_to_classes\Introduction_to_classes\obj\Debug\net8.0\ref\Introduction_to_classes.dll
