@@ -1,0 +1,15 @@
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\Card_game.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\Card_game.AssemblyInfoInputs.cache
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\Card_game.AssemblyInfo.cs
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\Card_game.csproj.CoreCompileInputs.cache
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\Card_game.sourcelink.json
+F:\C#\Card_game\Card_game\bin\Debug\net8.0\Card_game.exe
+F:\C#\Card_game\Card_game\bin\Debug\net8.0\Card_game.deps.json
+F:\C#\Card_game\Card_game\bin\Debug\net8.0\Card_game.runtimeconfig.json
+F:\C#\Card_game\Card_game\bin\Debug\net8.0\Card_game.dll
+F:\C#\Card_game\Card_game\bin\Debug\net8.0\Card_game.pdb
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\Card_game.dll
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\refint\Card_game.dll
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\Card_game.pdb
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\Card_game.genruntimeconfig.cache
+F:\C#\Card_game\Card_game\obj\Debug\net8.0\ref\Card_game.dll
