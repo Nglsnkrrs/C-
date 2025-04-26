@@ -1,0 +1,5 @@
+F:\C#\LoggerLib\LoggerLib\obj\Debug\net8.0\LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\LoggerLib\LoggerLib\obj\Debug\net8.0\LoggerLib.AssemblyInfoInputs.cache
+F:\C#\LoggerLib\LoggerLib\obj\Debug\net8.0\LoggerLib.AssemblyInfo.cs
+F:\C#\LoggerLib\LoggerLib\obj\Debug\net8.0\LoggerLib.csproj.CoreCompileInputs.cache
+F:\C#\LoggerLib\LoggerLib\obj\Debug\net8.0\LoggerLib.sourcelink.json

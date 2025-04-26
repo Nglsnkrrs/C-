@@ -13,3 +13,4 @@ F:\C#\Interface\Interface\obj\Debug\net8.0\refint\Interface.dll
 F:\C#\Interface\Interface\obj\Debug\net8.0\Interface.pdb
 F:\C#\Interface\Interface\obj\Debug\net8.0\Interface.genruntimeconfig.cache
 F:\C#\Interface\Interface\obj\Debug\net8.0\ref\Interface.dll
+F:\C#\Interface\Interface\bin\Debug\net8.0\config.ini

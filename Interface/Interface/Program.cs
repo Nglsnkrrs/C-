@@ -1,4 +1,6 @@
-﻿namespace Interface
+﻿using LoggerLib;
+
+namespace Interface
 {
     internal class Program
     {
@@ -16,6 +18,12 @@
 
 
             team.BuildHouse(house);
+
+            var logger = new Logger("config.ini", "log.txt");
+
+            logger.Log(MessageType.Info, "Программа запущена.");
+            logger.Log(MessageType.Warning, "Это предупреждение.");
+            logger.Log(MessageType.Error, "Произошла ошибка!");
         }
     }
 }
