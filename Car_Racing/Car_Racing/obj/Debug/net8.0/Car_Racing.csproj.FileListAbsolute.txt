@@ -1,0 +1,15 @@
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\Car_Racing.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\Car_Racing.AssemblyInfoInputs.cache
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\Car_Racing.AssemblyInfo.cs
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\Car_Racing.csproj.CoreCompileInputs.cache
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\Car_Racing.sourcelink.json
+F:\C#\Car_Racing\Car_Racing\bin\Debug\net8.0\Car_Racing.exe
+F:\C#\Car_Racing\Car_Racing\bin\Debug\net8.0\Car_Racing.deps.json
+F:\C#\Car_Racing\Car_Racing\bin\Debug\net8.0\Car_Racing.runtimeconfig.json
+F:\C#\Car_Racing\Car_Racing\bin\Debug\net8.0\Car_Racing.dll
+F:\C#\Car_Racing\Car_Racing\bin\Debug\net8.0\Car_Racing.pdb
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\Car_Racing.dll
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\refint\Car_Racing.dll
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\Car_Racing.pdb
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\Car_Racing.genruntimeconfig.cache
+F:\C#\Car_Racing\Car_Racing\obj\Debug\net8.0\ref\Car_Racing.dll
