@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "F:\\C#\\Introduction_to_classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|f:\\c#\\introduction_to_classes\\introduction_to_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|solutionrelative:introduction_to_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|f:\\c#\\introduction_to_classes\\introduction_to_classes\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|solutionrelative:introduction_to_classes\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|f:\\c#\\introduction_to_classes\\introduction_to_classes\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|solutionrelative:introduction_to_classes\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|f:\\c#\\introduction_to_classes\\introduction_to_classes\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|solutionrelative:introduction_to_classes\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|f:\\c#\\introduction_to_classes\\introduction_to_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|solutionrelative:introduction_to_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9619ED93-729B-4216-8D59-CBE4B1D8F648}|Introduction_to_classes\\Introduction_to_classes.csproj|f:\\c#\\introduction_to_classes\\introduction_to_classes\\website.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,21 +40,23 @@
               "RelativeDocumentMoniker": "Introduction_to_classes\\Shop.cs",
               "ToolTip": "F:\\C#\\Introduction_to_classes\\Introduction_to_classes\\Shop.cs",
               "RelativeToolTip": "Introduction_to_classes\\Shop.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA9wBQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T07:25:15.377Z"
+              "WhenOpened": "2025-04-16T07:25:15.377Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Magazine.cs",
               "DocumentMoniker": "F:\\C#\\Introduction_to_classes\\Introduction_to_classes\\Magazine.cs",
               "RelativeDocumentMoniker": "Introduction_to_classes\\Magazine.cs",
               "ToolTip": "F:\\C#\\Introduction_to_classes\\Introduction_to_classes\\Magazine.cs",
               "RelativeToolTip": "Introduction_to_classes\\Magazine.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T17:48:00.112Z"
+              "WhenOpened": "2025-04-14T17:48:00.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\C#\\Introduction_to_classes\\Introduction_to_classes\\Program.cs",
               "RelativeDocumentMoniker": "Introduction_to_classes\\Program.cs",
