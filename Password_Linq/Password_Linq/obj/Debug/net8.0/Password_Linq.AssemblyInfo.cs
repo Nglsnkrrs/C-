@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Password_Linq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+854e26f9a14f595d6007138695a0b49bfa3084af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cd08bb77597d78721cfce25fbe95571df4b0cea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Password_Linq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Password_Linq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -39,18 +39,17 @@ namespace Password_Linq
 
         static void LINQExpression(string[] passwords, string filePath)
         {
-            string[] result = (from password in passwords
+            var result = (from password in passwords
                           where regex.IsMatch(password)
-                          select password).ToArray();
+                          select password);
 
             File.AppendAllLines(filePath, result);
         }
 
         static void ExtensionMethods(string[] passwords, string filePath)
         {
-            string[] result = passwords.Where(password => regex.IsMatch(password))
-                .Select(password => password)
-                .ToArray();
+            var result = passwords.Where(password => regex.IsMatch(password))
+                .Select(password => password);
 
             File.AppendAllLines(filePath, result);
         }
