@@ -1,0 +1,15 @@
+F:\C#\Car in Stock\Car in Stock\bin\Debug\net8.0\Car in Stock.exe
+F:\C#\Car in Stock\Car in Stock\bin\Debug\net8.0\Car in Stock.deps.json
+F:\C#\Car in Stock\Car in Stock\bin\Debug\net8.0\Car in Stock.runtimeconfig.json
+F:\C#\Car in Stock\Car in Stock\bin\Debug\net8.0\Car in Stock.dll
+F:\C#\Car in Stock\Car in Stock\bin\Debug\net8.0\Car in Stock.pdb
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\Car in Stock.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\Car in Stock.AssemblyInfoInputs.cache
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\Car in Stock.AssemblyInfo.cs
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\Car in Stock.csproj.CoreCompileInputs.cache
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\Car in Stock.sourcelink.json
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\Car in Stock.dll
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\refint\Car in Stock.dll
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\Car in Stock.pdb
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\Car in Stock.genruntimeconfig.cache
+F:\C#\Car in Stock\Car in Stock\obj\Debug\net8.0\ref\Car in Stock.dll

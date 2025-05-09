@@ -1,0 +1,7 @@
+Warehouse 1 (Rome) | Car: BMW M5 (ID: 2, Year: 2006, Cost: 1000, Note: )
+Warehouse 1 (Rome) | Car: BMW X6 (ID: 19, Year: 2004, Cost: 91382, Note: )
+Warehouse 1 (Rome) | Car: BMW M5 (ID: 22, Year: 2007, Cost: 1000, Note: )
+Warehouse 1 (Rome) | Car: BMW F10 (ID: 43, Year: 2002, Cost: 1000, Note: )
+Warehouse 3 (Milan) | Car: BMW F10 (ID: 86, Year: 2016, Cost: 1000, Note: Inspection completed)
+Warehouse 3 (Milan) | Car: BMW X6 (ID: 94, Year: 2001, Cost: 1000, Note: )
+Warehouse 4 (Moscow) | Car: BMW X6 (ID: 103, Year: 2009, Cost: 1000, Note: )

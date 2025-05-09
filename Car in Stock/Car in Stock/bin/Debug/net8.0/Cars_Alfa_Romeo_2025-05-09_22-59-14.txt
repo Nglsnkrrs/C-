@@ -1,0 +1,1 @@
+Warehouse 1 (Rome) | Car: Alfa_Romeo (ID: 46, Year: 1998, Cost: 1000, Note: )
