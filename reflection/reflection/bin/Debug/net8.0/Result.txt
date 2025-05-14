@@ -1,0 +1,2 @@
+Name: Ternavskaya Valeria Romanovna, basePayment: 2000, bonus: 1000,0, period_of_service:40,000, total: 3040,000
+Name: Harry Potter, basePayment: 5000, bonus: 0, period_of_service:250,000, total: 5250,000
