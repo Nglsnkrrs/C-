@@ -6,13 +6,15 @@
         {
             Add_user add = new Add_user();
             Work_Quiz quiz = new Work_Quiz();
+            Admin admin = new Admin();
             string login, password, dateOfBirth;
             while (true)
             {
                 Console.WriteLine("Меню");
                 Console.WriteLine("1. Регистрация");
                 Console.WriteLine("2. Вход");
-                Console.WriteLine("3. Назад");
+                Console.WriteLine("3. Профиль администратора");
+                Console.WriteLine("4. Назад");
                 Console.Write("Ваш выбор: ");
                 int choice = Convert.ToInt32(Console.ReadLine());
 
@@ -66,7 +68,10 @@
                             add.Register(login, password, dateOfBirth);
                         }
                         break;
-                        case 3: return;
+                        case 3:
+                            admin.AdminProf();
+                        break;
+                        case 4: return;
 
                 }
             }
