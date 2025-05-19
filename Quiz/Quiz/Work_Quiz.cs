@@ -65,6 +65,72 @@ namespace Quiz
             Console.WriteLine($"\nВаш итоговый результат: {score} из {totalQuestions}");
             return score;
         }
+
+        public int SelectMixedTest(string[] testFiles)
+        {
+            var allQuestions = new List<(string Question, string[] Answers, string[] CorrectAnswers)>();
+
+            foreach (var file in testFiles)
+            {
+                if (!File.Exists(file)) continue;
+
+                string[] lines = File.ReadAllLines(file);
+                int count = lines.Length / 3;
+
+                for (int i = 0; i < count; i++)
+                {
+                    string q = lines[i * 3];
+                    string[] a = lines[i * 3 + 1].Split(',').Select(x => x.Trim()).ToArray();
+                    string[] c = lines[i * 3 + 2].Split(',').Select(x => x.Trim()).ToArray();
+
+                    allQuestions.Add((q, a, c));
+                }
+            }
+
+            var rand = new Random();
+            allQuestions = allQuestions.OrderBy(_ => rand.Next()).ToList();
+
+            int score = 0;
+            for (int i = 0; i < allQuestions.Count; i++)
+            {
+                var (question, answers, correctAnswers) = allQuestions[i];
+
+                List<int> correctIndexes = new List<int>();
+                for (int j = 0; j < answers.Length; j++)
+                {
+                    if (correctAnswers.Contains(answers[j]))
+                        correctIndexes.Add(j + 1);
+                }
+
+                Console.WriteLine($"\nВопрос {i + 1}: {question}");
+                for (int j = 0; j < answers.Length; j++)
+                {
+                    Console.WriteLine($"{j + 1}. {answers[j]}");
+                }
+                Console.Write("Введите номера правильных ответов через запятую (например: 1,3): ");
+                string input = Console.ReadLine();
+                List<int> userIndexes = input.Split(',')
+                                             .Select(s => s.Trim())
+                                             .Where(s => int.TryParse(s, out _))
+                                             .Select(int.Parse)
+                                             .ToList();
+
+                bool isCorrect = userIndexes.OrderBy(x => x).SequenceEqual(correctIndexes.OrderBy(x => x));
+                if (isCorrect)
+                {
+                    score++;
+                    Console.WriteLine("Правильно!");
+                }
+                else
+                {
+                    Console.WriteLine("Неверно. Правильные ответы: " + string.Join(", ", correctIndexes));
+                }
+            }
+
+            Console.WriteLine($"\nВаш итоговый результат: {score} из {allQuestions.Count}");
+            return score;
+        }
+
         public void RunTheQuiz(string login)
         {
             string result;
@@ -74,7 +140,8 @@ namespace Quiz
                 Console.WriteLine("Geography");
                 Console.WriteLine("Biology");
                 Console.WriteLine("Mathematics");
-                Console.WriteLine("Russian"); 
+                Console.WriteLine("Russian");
+                Console.WriteLine("Mixed");
                 Console.WriteLine("Back");
                 Console.Write("Your choice: ");
                 string NameTest = Console.ReadLine();
@@ -116,6 +183,18 @@ namespace Quiz
                             File.AppendAllText(NameTest + "_results.txt", $"{login}-{score}" + Environment.NewLine);
                             break;
                         }
+                    case "Mixed":
+                        {
+                            int score = SelectMixedTest(new string[]
+                            {
+                               "History.txt", "Geography.txt", "Biology.txt", "Mathematics.txt", "Russian.txt"
+                            });
+
+                            File.AppendAllText($"{login}.txt", $"{NameTest}-{score}" + Environment.NewLine);
+                            File.AppendAllText("Mixed_results.txt", $"{login}-{score}" + Environment.NewLine);
+                            break;
+                        }
+
                     case "Back": return;
 
 
