@@ -1,0 +1,15 @@
+F:\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.exe
+F:\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.deps.json
+F:\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.runtimeconfig.json
+F:\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.dll
+F:\C#\Quiz\Quiz\bin\Debug\net8.0\Quiz.pdb
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfoInputs.cache
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.AssemblyInfo.cs
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.csproj.CoreCompileInputs.cache
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.sourcelink.json
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.dll
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\refint\Quiz.dll
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.pdb
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\Quiz.genruntimeconfig.cache
+F:\C#\Quiz\Quiz\obj\Debug\net8.0\ref\Quiz.dll
