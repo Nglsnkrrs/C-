@@ -1,0 +1,10 @@
+F:\C#\The Escaping Static\The Escaping Static\bin\Debug\The Escaping Static.exe.config
+F:\C#\The Escaping Static\The Escaping Static\bin\Debug\The Escaping Static.exe
+F:\C#\The Escaping Static\The Escaping Static\bin\Debug\The Escaping Static.pdb
+F:\C#\The Escaping Static\The Escaping Static\obj\Debug\The Escaping Static.csproj.AssemblyReference.cache
+F:\C#\The Escaping Static\The Escaping Static\obj\Debug\The_Escaping_Static.Form1.resources
+F:\C#\The Escaping Static\The Escaping Static\obj\Debug\The_Escaping_Static.Properties.Resources.resources
+F:\C#\The Escaping Static\The Escaping Static\obj\Debug\The Escaping Static.csproj.GenerateResource.cache
+F:\C#\The Escaping Static\The Escaping Static\obj\Debug\The Escaping Static.csproj.CoreCompileInputs.cache
+F:\C#\The Escaping Static\The Escaping Static\obj\Debug\The Escaping Static.exe
+F:\C#\The Escaping Static\The Escaping Static\obj\Debug\The Escaping Static.pdb
