@@ -1,0 +1,10 @@
+F:\C#\Time before the specified date\Time before the specified date\obj\Debug\Time before the specified date.csproj.AssemblyReference.cache
+F:\C#\Time before the specified date\Time before the specified date\obj\Debug\Time_before_the_specified_date.Form1.resources
+F:\C#\Time before the specified date\Time before the specified date\obj\Debug\Time_before_the_specified_date.Properties.Resources.resources
+F:\C#\Time before the specified date\Time before the specified date\obj\Debug\Time before the specified date.csproj.GenerateResource.cache
+F:\C#\Time before the specified date\Time before the specified date\obj\Debug\Time before the specified date.csproj.CoreCompileInputs.cache
+F:\C#\Time before the specified date\Time before the specified date\bin\Debug\Time before the specified date.exe.config
+F:\C#\Time before the specified date\Time before the specified date\bin\Debug\Time before the specified date.exe
+F:\C#\Time before the specified date\Time before the specified date\bin\Debug\Time before the specified date.pdb
+F:\C#\Time before the specified date\Time before the specified date\obj\Debug\Time before the specified date.exe
+F:\C#\Time before the specified date\Time before the specified date\obj\Debug\Time before the specified date.pdb
