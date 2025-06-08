@@ -1,0 +1,10 @@
+F:\C#\Day of the week\Day of the week\bin\Debug\Day of the week.exe.config
+F:\C#\Day of the week\Day of the week\bin\Debug\Day of the week.exe
+F:\C#\Day of the week\Day of the week\bin\Debug\Day of the week.pdb
+F:\C#\Day of the week\Day of the week\obj\Debug\Day of the week.csproj.AssemblyReference.cache
+F:\C#\Day of the week\Day of the week\obj\Debug\Day_of_the_week.Form1.resources
+F:\C#\Day of the week\Day of the week\obj\Debug\Day_of_the_week.Properties.Resources.resources
+F:\C#\Day of the week\Day of the week\obj\Debug\Day of the week.csproj.GenerateResource.cache
+F:\C#\Day of the week\Day of the week\obj\Debug\Day of the week.csproj.CoreCompileInputs.cache
+F:\C#\Day of the week\Day of the week\obj\Debug\Day of the week.exe
+F:\C#\Day of the week\Day of the week\obj\Debug\Day of the week.pdb
