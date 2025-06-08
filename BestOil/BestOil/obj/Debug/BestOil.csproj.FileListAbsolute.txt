@@ -1,0 +1,10 @@
+F:\C#\BestOil\BestOil\obj\Debug\BestOil.csproj.AssemblyReference.cache
+F:\C#\BestOil\BestOil\obj\Debug\BestOil.Form1.resources
+F:\C#\BestOil\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+F:\C#\BestOil\BestOil\obj\Debug\BestOil.csproj.GenerateResource.cache
+F:\C#\BestOil\BestOil\obj\Debug\BestOil.csproj.CoreCompileInputs.cache
+F:\C#\BestOil\BestOil\bin\Debug\BestOil.exe.config
+F:\C#\BestOil\BestOil\bin\Debug\BestOil.exe
+F:\C#\BestOil\BestOil\bin\Debug\BestOil.pdb
+F:\C#\BestOil\BestOil\obj\Debug\BestOil.exe
+F:\C#\BestOil\BestOil\obj\Debug\BestOil.pdb
