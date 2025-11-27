@@ -1,0 +1,13 @@
+F:\C#\Vegetables and fruits\Vegetables and fruits\bin\Debug\Vegetables and Fruits.ldf
+F:\C#\Vegetables and fruits\Vegetables and fruits\bin\Debug\Vegetables and Fruits.mdf
+F:\C#\Vegetables and fruits\Vegetables and fruits\bin\Debug\Vegetables and fruits.exe.config
+F:\C#\Vegetables and fruits\Vegetables and fruits\bin\Debug\Vegetables and fruits.exe
+F:\C#\Vegetables and fruits\Vegetables and fruits\bin\Debug\Vegetables and fruits.pdb
+F:\C#\Vegetables and fruits\Vegetables and fruits\obj\Debug\Vegetables and fruits.csproj.AssemblyReference.cache
+F:\C#\Vegetables and fruits\Vegetables and fruits\obj\Debug\Vegetables_and_fruits.Form1.resources
+F:\C#\Vegetables and fruits\Vegetables and fruits\obj\Debug\Vegetables_and_fruits.Properties.Resources.resources
+F:\C#\Vegetables and fruits\Vegetables and fruits\obj\Debug\Vegetables and fruits.csproj.GenerateResource.cache
+F:\C#\Vegetables and fruits\Vegetables and fruits\obj\Debug\Vegetables and fruits.csproj.CoreCompileInputs.cache
+F:\C#\Vegetables and fruits\Vegetables and fruits\obj\Debug\Vegetables and fruits.exe
+F:\C#\Vegetables and fruits\Vegetables and fruits\obj\Debug\Vegetables and fruits.pdb
+F:\C#\Vegetables and fruits\Vegetables and fruits\obj\Debug\Vegetables and fruits.exe.config
