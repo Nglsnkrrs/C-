@@ -1,0 +1,11 @@
+F:\C#\ControllApp\ControllApp\bin\Debug\ControllApp.exe.config
+F:\C#\ControllApp\ControllApp\bin\Debug\ControllApp.exe
+F:\C#\ControllApp\ControllApp\bin\Debug\ControllApp.pdb
+F:\C#\ControllApp\ControllApp\obj\Debug\ControllApp.csproj.AssemblyReference.cache
+F:\C#\ControllApp\ControllApp\obj\Debug\ControllApp.Form1.resources
+F:\C#\ControllApp\ControllApp\obj\Debug\ControllApp.Properties.Resources.resources
+F:\C#\ControllApp\ControllApp\obj\Debug\ControllApp.csproj.GenerateResource.cache
+F:\C#\ControllApp\ControllApp\obj\Debug\ControllApp.csproj.CoreCompileInputs.cache
+F:\C#\ControllApp\ControllApp\obj\Debug\ControllApp.exe
+F:\C#\ControllApp\ControllApp\obj\Debug\ControllApp.pdb
+F:\C#\ControllApp\ControllApp\obj\Debug\ControllApp.exe.config

@@ -1,0 +1,11 @@
+F:\C#\TargetApp\TargetApp\bin\Debug\TargetApp.exe.config
+F:\C#\TargetApp\TargetApp\bin\Debug\TargetApp.exe
+F:\C#\TargetApp\TargetApp\bin\Debug\TargetApp.pdb
+F:\C#\TargetApp\TargetApp\obj\Debug\TargetApp.csproj.AssemblyReference.cache
+F:\C#\TargetApp\TargetApp\obj\Debug\TargetApp.Form1.resources
+F:\C#\TargetApp\TargetApp\obj\Debug\TargetApp.Properties.Resources.resources
+F:\C#\TargetApp\TargetApp\obj\Debug\TargetApp.csproj.GenerateResource.cache
+F:\C#\TargetApp\TargetApp\obj\Debug\TargetApp.csproj.CoreCompileInputs.cache
+F:\C#\TargetApp\TargetApp\obj\Debug\TargetApp.exe
+F:\C#\TargetApp\TargetApp\obj\Debug\TargetApp.pdb
+F:\C#\TargetApp\TargetApp\obj\Debug\TargetApp.exe.config
