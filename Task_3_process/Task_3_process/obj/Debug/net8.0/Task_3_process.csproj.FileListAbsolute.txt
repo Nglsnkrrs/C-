@@ -1,0 +1,15 @@
+F:\C#\Task_3_process\Task_3_process\bin\Debug\net8.0\Task_3_process.exe
+F:\C#\Task_3_process\Task_3_process\bin\Debug\net8.0\Task_3_process.deps.json
+F:\C#\Task_3_process\Task_3_process\bin\Debug\net8.0\Task_3_process.runtimeconfig.json
+F:\C#\Task_3_process\Task_3_process\bin\Debug\net8.0\Task_3_process.dll
+F:\C#\Task_3_process\Task_3_process\bin\Debug\net8.0\Task_3_process.pdb
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\Task_3_process.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\Task_3_process.AssemblyInfoInputs.cache
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\Task_3_process.AssemblyInfo.cs
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\Task_3_process.csproj.CoreCompileInputs.cache
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\Task_3_process.sourcelink.json
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\Task_3_process.dll
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\refint\Task_3_process.dll
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\Task_3_process.pdb
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\Task_3_process.genruntimeconfig.cache
+F:\C#\Task_3_process\Task_3_process\obj\Debug\net8.0\ref\Task_3_process.dll
