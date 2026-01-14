@@ -1,0 +1,16 @@
+F:\C#\Generator\Generator\bin\Debug\Generator.exe.config
+F:\C#\Generator\Generator\bin\Debug\Generator.exe
+F:\C#\Generator\Generator\bin\Debug\Generator.pdb
+F:\C#\Generator\Generator\obj\Debug\Generator.csproj.AssemblyReference.cache
+F:\C#\Generator\Generator\obj\Debug\MainWindow.g.cs
+F:\C#\Generator\Generator\obj\Debug\App.g.cs
+F:\C#\Generator\Generator\obj\Debug\Generator_MarkupCompile.cache
+F:\C#\Generator\Generator\obj\Debug\Generator_MarkupCompile.lref
+F:\C#\Generator\Generator\obj\Debug\MainWindow.baml
+F:\C#\Generator\Generator\obj\Debug\Generator.g.resources
+F:\C#\Generator\Generator\obj\Debug\Generator.Properties.Resources.resources
+F:\C#\Generator\Generator\obj\Debug\Generator.csproj.GenerateResource.cache
+F:\C#\Generator\Generator\obj\Debug\Generator.csproj.CoreCompileInputs.cache
+F:\C#\Generator\Generator\obj\Debug\Generator.exe
+F:\C#\Generator\Generator\obj\Debug\Generator.pdb
+F:\C#\Generator\Generator\obj\Debug\Generator.exe.config
