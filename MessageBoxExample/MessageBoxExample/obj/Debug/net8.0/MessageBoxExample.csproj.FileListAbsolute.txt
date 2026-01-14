@@ -1,0 +1,15 @@
+F:\C#\MessageBoxExample\MessageBoxExample\bin\Debug\net8.0\MessageBoxExample.exe
+F:\C#\MessageBoxExample\MessageBoxExample\bin\Debug\net8.0\MessageBoxExample.deps.json
+F:\C#\MessageBoxExample\MessageBoxExample\bin\Debug\net8.0\MessageBoxExample.runtimeconfig.json
+F:\C#\MessageBoxExample\MessageBoxExample\bin\Debug\net8.0\MessageBoxExample.dll
+F:\C#\MessageBoxExample\MessageBoxExample\bin\Debug\net8.0\MessageBoxExample.pdb
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\MessageBoxExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\MessageBoxExample.AssemblyInfoInputs.cache
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\MessageBoxExample.AssemblyInfo.cs
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\MessageBoxExample.csproj.CoreCompileInputs.cache
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\MessageBoxExample.sourcelink.json
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\MessageBoxExample.dll
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\refint\MessageBoxExample.dll
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\MessageBoxExample.pdb
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\MessageBoxExample.genruntimeconfig.cache
+F:\C#\MessageBoxExample\MessageBoxExample\obj\Debug\net8.0\ref\MessageBoxExample.dll
